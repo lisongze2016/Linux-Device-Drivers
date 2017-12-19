@@ -1,3 +1,3 @@
-# My Awesome Book
+# Linux Device Drivers
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Linux 设备驱动学习笔记，实验基于tiny4412平台。
