@@ -11,6 +11,8 @@
     * 互斥体
     * 完成量
 * Linux 时间管理
+    * HZ、jiffies
+    * timer
 * Platform 平台总线
 * Led 子系统
 * Input 子系统
