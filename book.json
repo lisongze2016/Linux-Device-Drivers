@@ -1,0 +1,31 @@
+{
+	"author": "Songze Lee <Songze_Lee@163.com>",
+	"description": "Linux设备驱动学习笔记",
+	"generator": "site",
+	"plugins" : [ 
+		"prism",
+		"-highlight",
+		"splitter",
+		"ace"
+	],
+
+	"pluginsConfig": {
+		"prism": {
+			"css": [
+				"prismjs/themes/prism-solarizedlight.css"
+			]
+		},
+		"theme-default": {
+			"showLevel": true
+		}
+	},
+
+	"links": {
+		"sidebar": {
+			"首页": "http://kernel.lisongze.cn",
+			"博客": "http://www.lisongze.cn"
+		}
+	},
+
+	"title": "Linux设备驱动学习笔记"
+}
