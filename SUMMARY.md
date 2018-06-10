@@ -9,7 +9,7 @@
     * [模块参数 module_param](moudle/module_param.md)
     * [内核调试打印 prink](moudle/printk.md)
     * [Kconfig和Makefile](moudle/Kconfig_Makefile.md)
-* [Linux 字符设备](char/README.md)
+* [Linux 字符设备](char/char_dev.md)
     * [早期注册字符设备驱动的经典方式](char/register_chrdev.md)
         * [LED字符设备驱动示例](char/led_chardrv1.md)
         * [自动创建设备节点](char/class_create.md)
