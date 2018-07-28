@@ -31,8 +31,8 @@
   * 互斥体
   * 完成量
 * Linux 时间管理
-  * HZ、jiffies
-  * timer
+  * [HZ、jiffies](timer/HZ_jiffies.md)
+  * [timer](timer/timer.md)
 * Platform 平台总线
 * Led 子系统
 * Input 子系统
